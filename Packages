@@ -1,0 +1,145 @@
+Package: com.itaysoft.wifilist
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Itay
+Installed-Size: 1128
+Filename: debs/com.itaysoft.wifilist_1.1.0.deb
+Size: 913518
+MD5sum: 1d179a6265194770f3251f9730ea8bfd
+SHA1: fae5578caab92135ae9f70800d4b35c8ea7d660e
+SHA256: fcb38a1839c45ba2ddd86fd506479b99f0bf10c7949244eae3cf72f0d54e4f6b
+Section: Utilities
+Description: View and share WiFi passwords
+Author: Itay
+Depiction: https://www.icaughtuapp.com/repo/depictions/web/?p=com.itaysoft.wifilist
+Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
+Name: WiFi List
+Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.wifilist/depiction.json
+
+Package: z.biqunoad
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/z.biqunoad_1.6_iphoneos-arm.deb
+Size: 2726
+MD5sum: 764567dfb29586e1aed9effc2445648e
+SHA1: fbb1e81da3ef197d1143950e1d68de6ef254435c
+SHA256: f719e063c34ffbd8f475628fc650eac54e1836f3c282419db6070cb1cda82de5
+Section: Tweaks
+Description: 笔趣阁1.1.2去广告~
+Author: 真皮
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: biquNoAds
+
+Package: z.feng3gs
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: feng3gs
+Installed-Size: 72
+Filename: debs/z.feng3gs_2.0_iphoneos-arm.deb
+Size: 3514
+MD5sum: 6841afff111335bd26ee95f2312ff80b
+SHA1: 1057395e56d65f5d88fa6d29328841b5e1d4395c
+SHA256: 558e8049b4f1f2c5d130c87667c3837578c5b5d3f899f2aab98fe9d25d2a841d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: feng3gs
+Name: feng3gs
+
+Package: z.fengnoads
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.fengnoads_2.1_iphoneos-arm.deb
+Size: 3348
+MD5sum: 61aeaf0dc3e1f651c225b35ee33342df
+SHA1: fab30a5969228d219d3c3573bd764538ba673053
+SHA256: 4c467eea9c2423ff4b6bd72a751effeed7e8deb03ddb9b644212bb63fd2ac8af
+Section: Tweaks
+Description: 威锋去广告6.4.2自用!
+Author: z
+Name: 威锋NoAds
+
+Package: z.newsysctl
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Filename: debs/z.newsysctl_3.2_iphoneos-arm.deb
+Size: 3276
+MD5sum: 67f86664cd82064d0084ec90b7dc1472
+SHA1: 2e1c4afd135bf67e13be61251d709c6e66492d14
+SHA256: ba8d8e44a97b709c610e3c2a8dcef5dcd54434ba323f329ebd9fbd04f3d255da
+Section: Tweaks
+Description: 重启越狱后运行/etc/newsysctl自定义脚本~
+Author: 真皮
+Name: newsysctl
+
+Package: z.nojb.jh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.jhnojb.deb
+Size: 2540
+MD5sum: 7541a35c0c0ccbe893ee7f6625537b22
+SHA1: 8e0149c3ceebf054b9d791508828c219a8b1cc1f
+SHA256: c46b1603255d2b69a9cc3433d60a7320006ca6a7d8362231c65b2d2fc5ca1f43
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: z
+Name: 建行noJB
+
+Package: z.taobaonoads
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 60
+Depends: mobilesubstrate
+Filename: debs/z.taobaonoads_1.5_iphoneos-arm.deb
+Size: 3066
+MD5sum: f769c54c4618ea95f878a595e9cc4594
+SHA1: 7923a4d85de1defc5251e08a7be5c9d34f1c7c52
+SHA256: 661da92b6ff41e493142e278299f41af2120587b132887e9c52683afd751eac0
+Section: Tweaks
+Description: 自用去广告~
+Author: 真皮
+Name: 淘宝去广告
+
+Package: z.tweakzlite2
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.tweakzlite2_2.2_iphoneos-arm.deb
+Size: 7024
+MD5sum: e68176d879d333f01fcbbd91b37fcc08
+SHA1: 7f5be6c8ba5abc39be185d578d1dd3dbd214f3a2
+SHA256: 9f43d34eec474c2e29351a238bd0177d7161bbd3763e9c8ea66050cac58b375b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: z
+Name: tweakZlite2
+
+Package: z.zfbbs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/z.zfbbs.deb
+Size: 2144
+MD5sum: 32eb6afc0ffd7b7adc9857cd742b371c
+SHA1: 6bac3786ca1771dbd779a8dd73b34e4c8b66b214
+SHA256: af932df31e5e3daa4365a89552847875d3df876296f03c8ce894381351c6702e
+Section: Tweaks
+Description: 正常步数基础上增加（20000-26666）范围随机~
+Author: 真皮
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: zfbbs
+
