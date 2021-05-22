@@ -111,16 +111,16 @@ Author: 真皮
 Name: 淘宝去广告
 
 Package: z.tweakzlite2
-Version: 2.2
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/z.tweakzlite2_2.2_iphoneos-arm.deb
-Size: 7024
-MD5sum: e68176d879d333f01fcbbd91b37fcc08
-SHA1: 7f5be6c8ba5abc39be185d578d1dd3dbd214f3a2
-SHA256: 9f43d34eec474c2e29351a238bd0177d7161bbd3763e9c8ea66050cac58b375b
+Filename: debs/z.tweakzlite2_2.3_iphoneos-arm.deb
+Size: 6440
+MD5sum: 6dbbc90931ea17a1011e4ac6165af407
+SHA1: 98b23dac96aec302a485d5bde253edd887fc3119
+SHA256: 0065ea2df14a9c0c8c3d6bd74ccff9015aee026c45a9f680e1497eb2066ad4ac
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: z
