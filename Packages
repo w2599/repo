@@ -127,16 +127,16 @@ Author: z
 Name: tweakZlite2
 
 Package: z.unzfbbs
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 136
 Depends: plutil,mobilesubstrate (>= 0.9.5000)
-Filename: debs/z.unzfbbs_2.1_iphoneos-arm.deb
-Size: 9618
-MD5sum: d2b938226e4d713ea3810c0e85d3bd6a
-SHA1: 3df0a14b9ea4255a8f9d959033d87aa27c161754
-SHA256: c4e84b3500f31aa65677c111dbd1de687b55cace19138b333925bee5815e5106
+Filename: debs/z.unzfbbs_2.2_iphoneos-arm.deb
+Size: 9756
+MD5sum: 6bd892cb007e02260303a0042a0e16b3
+SHA1: 88541a82d21c5024445721c5935b73e610dd1b75
+SHA256: e2d871edbac4f40b0673b3f072ee89c00a094ff111fb1dbc941c1b63ee0131ac
 Section: Tweaks
 Description: libhooker下利用3dtouch菜单启用or禁用插件!
 Author: z
