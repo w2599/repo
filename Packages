@@ -126,6 +126,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: z
 Name: tweakZlite2
 
+Package: z.unzfbbs
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.unzfbbs_2.0_iphoneos-arm.deb
+Size: 9562
+MD5sum: b7540ccf817b422cb1939feea758b0fb
+SHA1: 6fd0a10476bfa004ebc67af710407b1094367f97
+SHA256: 9a0a3309794f4b18c1fc699de71d51d094ae70ea2245dfdc589baf9145174958
+Section: Tweaks
+Description: libhooker下利用3dtouch菜单启用or禁用插件!
+Author: z
+Name: unzfbbs
+
 Package: z.zfbbs
 Version: 1.0
 Architecture: iphoneos-arm
