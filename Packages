@@ -131,12 +131,12 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: plutil,mobilesubstrate (>= 0.9.5000)
 Filename: debs/z.unzfbbs_2.0_iphoneos-arm.deb
 Size: 9562
-MD5sum: b7540ccf817b422cb1939feea758b0fb
-SHA1: 6fd0a10476bfa004ebc67af710407b1094367f97
-SHA256: 9a0a3309794f4b18c1fc699de71d51d094ae70ea2245dfdc589baf9145174958
+MD5sum: f9194960ae94afc2253ea21002607f24
+SHA1: cc312f97d42b570dd74d3025ba1e3dd8a0d6e6a9
+SHA256: b708e83a96aa5a8d0dc83ef0b2fa04faf32e0accb6307d761fa77dad833e83ae
 Section: Tweaks
 Description: libhooker下利用3dtouch菜单启用or禁用插件!
 Author: z
