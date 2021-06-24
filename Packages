@@ -143,16 +143,16 @@ Author: z
 Name: unzfbbs
 
 Package: z.zfbbs
-Version: 2.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 真皮
-Installed-Size: 136
+Installed-Size: 56
 Depends: mobilesubstrate
-Filename: debs/z.zfbbs_2.1_iphoneos-arm.deb
-Size: 4934
-MD5sum: 3395c7a5c7375b348b70083e586e2cb2
-SHA1: 2309e71d3266fa20007d359092c82bd3e66f77dc
-SHA256: 47320049eaf5984fd939565439d7e1615a301247416a59a3d16607698d93811c
+Filename: debs/z.zfbbs.deb
+Size: 2144
+MD5sum: 32eb6afc0ffd7b7adc9857cd742b371c
+SHA1: 6bac3786ca1771dbd779a8dd73b34e4c8b66b214
+SHA256: af932df31e5e3daa4365a89552847875d3df876296f03c8ce894381351c6702e
 Section: Tweaks
 Description: 正常步数基础上增加（20000-26666）范围随机~
 Author: 真皮
