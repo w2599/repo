@@ -49,16 +49,16 @@ Author: feng3gs
 Name: feng3gs
 
 Package: z.fengnoads
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/z.fengnoads_2.1_iphoneos-arm.deb
-Size: 3348
-MD5sum: 61aeaf0dc3e1f651c225b35ee33342df
-SHA1: fab30a5969228d219d3c3573bd764538ba673053
-SHA256: 4c467eea9c2423ff4b6bd72a751effeed7e8deb03ddb9b644212bb63fd2ac8af
+Filename: debs/z.fengnoads_2.2_iphoneos-arm.deb
+Size: 3450
+MD5sum: b65bf9bde4baa0cfbe816c4e9f6a0adc
+SHA1: 8fd6481c6fa43a6fe0341ea423a493d51e91a6f5
+SHA256: 26117a5ba3541cf45dce10450a8210127a0ba2d64f230983c99f3218834f3b7b
 Section: Tweaks
 Description: 威锋去广告6.4.2自用!
 Author: z
